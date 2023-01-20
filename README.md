@@ -8,4 +8,4 @@ Robot Framework is implemented using Python, and a precondition to install it is
 
 pip install robotframework
 
-This repository contains all the basic Robot Framework Automation Test Cases to get started with the Robot Framework Automation including data driven test, database testing, page object model.
+This repository contains all the basic Robot Framework Automation Test Cases to get started with the Robot Framework Automation including UI Automation,Funtional Testing Automation,Data driven testing, Database testing, Page Object model.
